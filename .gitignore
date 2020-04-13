@@ -7,6 +7,8 @@ Temp/
 Logs/
 MemoryCaptures/
 ProjectSettings/
+Mirror/
+ScriptTemplates/
 
 
 # Never ignore Asset meta data
@@ -58,3 +60,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 Multiplayer/Packages/manifest.json
+*.meta

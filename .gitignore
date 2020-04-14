@@ -9,6 +9,8 @@ MemoryCaptures/
 ProjectSettings/
 Mirror/
 ScriptTemplates/
+Builds/
+Debug/
 
 
 # Never ignore Asset meta data
